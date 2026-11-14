@@ -1,9 +1,6 @@
 # huffman-cli
 
-A command-line Huffman compressor/decompressor in C++17, built on top of
-[Project Nayuki's Reference Huffman coding](https://www.nayuki.io/page/reference-huffman-coding)
-(MIT License, see `LICENSE-NAYUKI.txt`).
-
+A command-line Huffman compressor/decompressor in C++17
 ## Build and run
 
 ```
