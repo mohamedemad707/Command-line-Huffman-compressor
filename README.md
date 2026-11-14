@@ -1,6 +1,6 @@
 # huffman-cli
 
-A command-line Huffman compressor/decompressor in C++17, built on top of
+A command-line Huffman compressor/decompressor in C++17,
 
 
 ## Build and run
